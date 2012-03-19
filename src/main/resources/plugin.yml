@@ -4,7 +4,7 @@ version: 1.43
 website: http://voxelwiki.com
 author: Gavjenks
 description: >
-             Gather a pallette based on items in your vicinity.
+             Gather a palette based on items in your vicinity.
 commands:
   mimic:
     description: Matches your inventory to types of blocks around you
